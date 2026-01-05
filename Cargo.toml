@@ -5,3 +5,5 @@ edition = "2024"
 
 [dependencies]
 hex-literal = "1"
+aes = "0.8"
+cipher = "0.4"

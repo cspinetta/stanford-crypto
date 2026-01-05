@@ -1,5 +1,5 @@
-use stanford_crypto::week1;
+use stanford_crypto::week2;
 
 fn main() {
-    week1::week1_run();
+    week2::week2_run();
 }
